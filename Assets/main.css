@@ -1,0 +1,81 @@
+.header {
+	font-size: 10px;
+	font-family: Helvetica;
+	color: brown;
+	text-align: center;
+	padding-top: 12px;
+}
+
+.info {
+	font-size: 11px;
+	font-family: Helvetica;
+	color: brown;
+	text-align: center;
+	padding-top: 1px;
+}
+
+.aboutMe {
+	position: absolute;
+	width: 308px;
+	height: 355px;
+	left: 115px;
+	top: 200px;
+	background: url(01.png);
+}
+
+.studio {
+	position: absolute;
+	width: 267px;
+	height: 347px;
+	left: 589px;
+	top: 200px;
+	background: url(02.png);
+}
+
+.lab {
+	position: absolute;
+	width: 296px;
+	height: 351px;
+	left: 1022px;
+	top: 200px;
+	background: url(03.png);
+}
+
+.aboutMeTxt {
+	position: absolute;
+	font-size: 15px;
+	font-family: Helvetica;
+	color: brown;
+	text-align: center;
+	left: 17%;
+	top: 80%;
+}
+
+.studioTxt {
+	position: absolute;
+	font-size: 15px;
+	font-family: Helvetica;
+	color: brown;
+	text-align: center;
+	left: 50%;
+	top: 80%;
+}
+
+.labTxt {
+	position: absolute;
+	font-size: 15px;
+	font-family: Helvetica;
+	color: brown;
+	text-align: center;
+	left: 81%;
+	top: 80%;
+}
+
+
+
+
+
+
+
+
+
